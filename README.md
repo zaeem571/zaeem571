@@ -1,4 +1,5 @@
-### ☕ Hello there, I'm Zaeem! I’m currently a computer science student and deeply passionate about exploring how code can solve real-world problems! right now, i'm bringing that passion to life by learning everything i can about ai and crafting scalable systems in next.js. 
+### ☕ Hello there, I'm Zaeem! 
+I’m currently a computer science student and deeply passionate about exploring how code can solve real-world problems! right now, i'm bringing that passion to life by learning everything i can about ai and crafting scalable systems in next.js. 
 --- 
 ### ✨ What i'm up to: 
 * 🧠 learning about ai and full-stack development
