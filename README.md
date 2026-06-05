@@ -10,8 +10,8 @@ I’m currently a computer science student and deeply passionate about exploring
   
 ---
 ### 🔗 Find me at:  
-[zaeem.m571@gmail.com](mailto:zaeem.m571@gmail.com)
-[linkedin.com/in/zaeemmahmood](https://www.linkedin.com/in/zaeemmahmood/) 
+* [zaeem.m571@gmail.com](mailto:zaeem.m571@gmail.com)
+* [linkedin.com/in/zaeemmahmood](https://www.linkedin.com/in/zaeemmahmood/) 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zaeem571&theme=github) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zaeem571&theme=github) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zaeem571&theme=github&utcOffset=8)
