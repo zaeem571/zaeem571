@@ -47,35 +47,8 @@ I’m a full-stack developer and deeply passionate about exploring how code can 
 
 ---
 ### 🔗 Find me at:  
-* <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /> [zaeem.m571@gmail.com](mailto:zaeem.m571@gmail.com)
-* <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /> [linkedin.com/in/zaeemmahmood](https://www.linkedin.com/in/zaeemmahmood/)
-
-### 🔗 Find me at:
-
-<p align="left">
-  <a href="https://linkedin.com/in/zaeemmahmood" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:zaeem.m571@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-### 🔗 Find me at:
-
-* <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /> [linkedin.com/in/zaeemmahmood](https://linkedin.com/in/zaeemmahmood)
-* <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /> [zaeem.m571@gmail.com](mailto:zaeem.m571@gmail.com)
-
-  ### 🔗 Find me at:
-
-<p align="left">
-  <a href="https://linkedin.com/in/zaeemmahmood" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-18181B?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
-  </a>
-  <a href="mailto:zaeem.m571@gmail.com">
-    <img src="https://img.shields.io/badge/Email-18181B?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" />
-  </a>
-</p>
+* [zaeem.m571@gmail.com](mailto:zaeem.m571@gmail.com)
+* [linkedin.com/in/zaeemmahmood](https://www.linkedin.com/in/zaeemmahmood/)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zaeem571&theme=github&animation=draw)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zaeem571&theme=github&animation=draw) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zaeem571&theme=github&animation=draw&utcOffset=0)
