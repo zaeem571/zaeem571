@@ -47,18 +47,15 @@ I’m a full-stack developer and deeply passionate about exploring how code can 
 
 ---
 ### 🔗 Find me at:  
-* [zaeem.m571@gmail.com](mailto:zaeem.m571@gmail.com)
-* [linkedin.com/in/zaeemmahmood](https://www.linkedin.com/in/zaeemmahmood/)
+*  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />[zaeem.m571@gmail.com](mailto:zaeem.m571@gmail.com)
+*  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />[linkedin.com/in/zaeemmahmood](https://www.linkedin.com/in/zaeemmahmood/)
 
-  ### 🔗 Find me at:
-
+ 
 <p align="left">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+     </a>
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+    </a>
 </p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zaeem571&theme=github)
