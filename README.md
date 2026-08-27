@@ -11,7 +11,7 @@ I’m a full-stack developer and deeply passionate about exploring how code can 
 --- 
 ### 🛠️ Technical Skills
 
-Frontend
+* Frontend
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
@@ -27,7 +27,7 @@ Frontend
   <img src="https://img.shields.io/badge/REST_APIs-85EA2D?style=flat-square&logo=openapiinitiative&logoColor=black" alt="REST APIs" />
 </p>
 
-#### Databases & ORM
+* Databases & ORM
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -35,7 +35,7 @@ Frontend
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
 </p>
 
-#### * DevOps, Tools & Workflow
+* DevOps, Tools & Workflow
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
