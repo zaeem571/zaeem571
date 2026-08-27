@@ -27,7 +27,7 @@ Frontend
   <img src="https://img.shields.io/badge/REST_APIs-85EA2D?style=flat-square&logo=openapiinitiative&logoColor=black" alt="REST APIs" />
 </p>
 
-#### * Databases & ORM
+#### Databases & ORM
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
