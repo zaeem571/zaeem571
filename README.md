@@ -11,7 +11,7 @@ I’m a full-stack developer and deeply passionate about exploring how code can 
 --- 
 ### 🛠️ Technical Skills
 
-#### * Frontend
+* Frontend
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
@@ -20,7 +20,7 @@ I’m a full-stack developer and deeply passionate about exploring how code can 
   <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik01LjUgM2EyLjUgMi41IDAgMCAwLTIuNSAyLjVjMCAxLjI0LjkgMi4yOCAyLjA4IDIuNDdDMi42NCA5LjU2IDIgMTIuMiAyIDE1YzAgNC40MiAzLjU4IDggOCA4czgtMy41OCA4LThjMC0yLjgtLjY0LTUuNDQtMy4wOC02Ljk3QzIwLjEgNy43OCAyMSA2Ljc0IDIxIDUuNUEyLjUgMi41IDAgMCAwIDE4LjUgM2MtMS4xMyAwLTIuMS43NS0yLjQgMS43OC0uMy0uMDYtLjY0LS4wOS0uOTgtLjA5LTEuMzMgMC0yLjU0LjQ2LTMuNTEgMS4yMkExMC40NyAxMC40NyAwIDAgMCA4LjUgNC42OWMtLjI2LS45Ni0xLjEzLTEuNjktMi4yOC0xLjY5em00IDhhMSAxIDAgMSAxIDAgMiAxIDEgMCAwIDEgMC0yem01IDBhMSAxIDAgMSAxIDAgMiAxIDEgMCAwIDEgMC0yem0tNS41IDRhMSAxIDAgMCAxIDEuOTUgLjQ1QzEwLjY5IDE2LjMzIDExLjMyIDE3IDEyIDE3czEuMzEtLjY3IDEuNTUtMS41NWExIDEgMCAxIDEgMS45NS40NUNBMy43NiAzLjc2IDAgMCAxIDEyIDE5YTMuNzYgMy43NiAwIDAgMS0zLjUtMnoiLz48L3N2Zz4=&logoColor=white" alt="Zustand" />
 </p>
 
-#### * Backend
+* Backend
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
