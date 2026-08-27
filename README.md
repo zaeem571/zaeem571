@@ -11,7 +11,7 @@ I’m a full-stack developer and deeply passionate about exploring how code can 
 --- 
 ### 🛠️ Technical Skills
 
-* Frontend
+Frontend
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
