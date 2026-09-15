@@ -24,6 +24,7 @@ I’m a full-stack developer and deeply passionate about exploring how code can 
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/REST_APIs-85EA2D?style=flat-square&logo=openapiinitiative&logoColor=black" alt="REST APIs" />
 </p>
 
