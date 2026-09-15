@@ -3,10 +3,10 @@ I’m a full-stack developer and deeply passionate about exploring how code can 
 
 --- 
 ### ✨ What I'm up to: 
-* 🧠 learning about AI and full-stack development
-* 🌐 developing production-ready apps using Next.js and Tailwind CSS
+* 🧠 diving deep into AI
+* 🌐 developing scalable, production-ready apps
 * 🏆 competing in hackathons with my friends
-* ⚡ optimizing my workflow and daily data tracking
+* ⚡ optimizing my workflow and daily tracking
 
 --- 
 ### 🛠️ Technical Skills
