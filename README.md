@@ -1,5 +1,5 @@
 ### 🍵 Hello there, I'm Zaeem! 
-I’m a full-stack developer and deeply passionate about exploring how code can solve real-world problems! Right now, I'm bringing that passion to life by learning everything I can about AI and crafting scalable systems. 
+Full-stack developer, deeply passionate about exploring how code can solve real-world problems! Right now, I'm bringing that passion to life by learning everything I can about AI and crafting scalable systems. 
 
 --- 
 ### ✨ What I'm up to: 
